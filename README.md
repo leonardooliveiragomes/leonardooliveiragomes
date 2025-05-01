@@ -9,4 +9,4 @@
  
 ## 📚 Tecnologias que mais domino</h3>
 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,cs,bootstrap,mysql,githubactions)](https://skillicons.dev)</br>
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,cs,bootstrap,mysql)](https://skillicons.dev)</br>
